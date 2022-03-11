@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, HashRouter } from "react-router-dom";
+import { Route, Redirect, HashRouter } from "react-router-dom";
 import Navigation from "../Navigation/index.js";
 import About from "../About/index";
 import Portfolio from "../Portfolio/index";
@@ -15,8 +15,8 @@ class Header extends Component {
           <Navigation />
         </header>
 
-        <div className="content">
-
+        <div className="content"> 
+          {/* <Route exact path="/"> </Route> render={() => <Redirect to="/about" />} /> */}
           <Route path="/about" component={About} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact}/>

@@ -1,5 +1,5 @@
 import React from 'react'; 
-import 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Individual Cards 
 function ProjectCards(props) {
@@ -10,7 +10,7 @@ function ProjectCards(props) {
         </div>
         <div className="content">
               <p className="card-title">{props.name}</p>
-              <p class="proj-icons-container">
+              <p className="proj-icons-container">
               <a href={props.github}><img class="project-icon" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Repo" /></a> 
               <a href={props.deploy}><img class="project-icon" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Live Application" /></a> 
        

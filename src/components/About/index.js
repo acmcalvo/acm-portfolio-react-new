@@ -7,20 +7,29 @@ function About() {
       <hr></hr>
       <div className="d-flex">
         <img
-          class="mb-5"
+          className="mb-5"
           id="avatar"
-          src="![me](https://user-images.githubusercontent.com/91921941/157585758-afea72b9-3c98-4727-a1a7-a571030b7ebe.jpg)"
+          src="'../assets/cover-project-2.png"
           alt="Alvaro Calvo"
         />
         <div>
           <p>
-            Text-1
+            I was born and raised in San Jose, Costa Rica, for most of my childhood I live in a small town known as "Curridabat."
+            I attend High School in the same town and meet the love of my life.
+           
+            
           </p>
           <p>
-            Text-2
+            We get married, and we have  two daughters and two sons,
+            After we got married, we moved to America to explore how to leave different counties
+            Plus, my wife was born in the United States.
           </p>
           <p>
-           Text-3
+            As early as 2000, we returned to Costa Rica, I started working at Advertising  Company Sepacolor,Sepacolor,
+            that change my carrier, and let me get more in the technical side of  "Graphics Design," so pursue grow in my carrier take the chance to get another job in Tribu Saatchi & Saatchi, 
+            now called Havas Costa Rica, is a great place to work and a very professional workplace, Watching my three kids grow up.  We always like being parents and we want to give my children the best 
+            we move back to the USA, My eldest son was suffocated by all the changes at that time, my old hope he missed so, they started to grow up here     So, they started to grow here. Then, In order to go to college, my son move to Daytona Beach, and  my daughter decided to join the army 
+            And young people still want to have a home in high school.  So .. Something happened, we got a new member in our family,  in the mean time  My son graduated from university and became AeroSpaces Engeniger and my daughter. He just finished her deployment and changed hands to the car dealership business. My old song was pursued in college. My daughter works in a car dealer, My old song is studying for a computer science degree in college.
           </p>
         </div>
       </div>
