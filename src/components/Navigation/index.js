@@ -5,13 +5,13 @@ import {NavLink} from "react-router-dom";
 function Navigation(props) {
   return (
     <div>
-      <Navbar expand="lg" bg="dark" sticky="top">
+      <Navbar expand="lg" bg="secondary" sticky="top">
         <NavLink className="nav-link" to="/">
           <div className="text-light">
             <h4 className="nav-title-font">Alvaro Calvo</h4>
           </div>
         </NavLink>
-        <ul class="navbar-nav ml-auto navitem-indent">
+        <ul className="navbar-nav ml-auto navitem-indent">
           <li className="nav-item">
             <NavLink to="/about">
               <div className="nav-font text-light">About Me</div>
@@ -22,7 +22,7 @@ function Navigation(props) {
               <div className="nav-font text-light">Portfolio</div>
             </NavLink>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <NavLink to="/contact">
               <div className="nav-font text-light">Contact</div>
             </NavLink>
