@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/91921941/157599523-17dc1f04-04be-4f29-ba35-a2c4456cf9f7.png",
+        "github": "https://github.com/acmcalvo/weather-dashboard.git",
+        "deploy": "https://acmcalvo.github.io/weather-dashboard/",
+        "topics": "JavaScript, API"
+    },
+    {
+        "id": 2,
+        "name": "Txt2",
+        "image": "Txt2",
+        "github": "Txt2",
+        "deploy": "Txt2",
+        "topics": "Txt2"
+    },
+
+    {
+        "id": 3,
+        "name": "Txt3",
+        "image": "Txt3",
+        "github": "Txt3",
+        "deploy": "Txt3",
+        "topics": "Txt3"
+    },
+    
+    {
+        "id": 4,
+        "name": "Txt3",
+        "image": "Txt3",
+        "github": "Txt3",
+        "deploy": "Txt3",
+        "topics": "Txt3"
+    }
+]
