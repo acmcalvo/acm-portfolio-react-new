@@ -3,7 +3,7 @@ import Octocat from "../assets/Octocat.png";
 
 function Footer() {
   return (
-    <footer className="footer bg-secondary sticky-botton">
+    <footer className="footer bg-secondary fixed-bottom">
       <a href="https://github.com/acmcalvo">
         <img
           src={Octocat} width="100" height="100"

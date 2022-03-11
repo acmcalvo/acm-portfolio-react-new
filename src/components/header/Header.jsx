@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { Route, Redirect, HashRouter } from "react-router-dom";
-import Navigation from "../Navigation/index.js";
+import Navigation from "../navigation/Navigation.jsx";
 import About from "../About/index";
-import Portfolio from "../Portfolio/index";
-import Contact from '../Contact/index';
-import Resume from '../Resume/index';
+import Portfolio from "../portfolio/Portfolio";
+import Contact from '../contact/Contact';
+import Resume from '../resume/Resume';
 
 
 class Header extends Component {
