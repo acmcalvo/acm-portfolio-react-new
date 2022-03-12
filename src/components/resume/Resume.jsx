@@ -1,17 +1,27 @@
 import React from "react";
+import me from "../assets/acm-resume.jpg";
 
 function Resume() {
   return (
+    
+    
     <section class="container">
       <h2 className="top-title">Resume</h2>
       <hr></hr>
+      <div className="d-flex">
+        <img
+          className="mx-5"
+           id="resume-1"
+         src={me} width="500" height="600"
+          alt="Alvaro Calvo"
+        />
 
       <div>
         <div class="mt-5">
           <h2 className="top-title">Alvaro Calvo</h2>
           <ul>
             <li>
-              Full-Stack Web Development, Graphics Designer
+              Full-Stack Web Development.
             </li>
           </ul>
 
@@ -30,6 +40,8 @@ function Resume() {
           >
             Download Resume
           </a>
+        
+        </div>
         </div>
       </div>
     </section>
