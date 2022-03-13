@@ -49,14 +49,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Navigation() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" >
       <Navbar.Brand href="#main">
-        {/* <Logo
-          alt=""
-          width="30"
-          height="30"
-          className="d-inline-block align-top"
-        /> */}
         Alvaro Calvo
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />

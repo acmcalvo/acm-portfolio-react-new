@@ -15,7 +15,7 @@ function Resume() {
           <h2 className="top-title">Alvaro Calvo</h2>
           <ul>
             <li>
-              Full-Stack Web Development.
+              Full-Stack Web Developer.
             </li>
           </ul>
 
