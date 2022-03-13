@@ -4,7 +4,7 @@ import me from '../assets/me.jpg';
 function About() {
   return (
     <section className="container">
-      <h2 class="top-title">Alvaro Calvo</h2>
+      <h2 className="top-title">About Me</h2>
       <hr></hr>
       <div className="d-flex">
         <img

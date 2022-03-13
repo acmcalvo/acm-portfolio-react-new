@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer bg-secondary fixed-bottom">
       <a href="https://github.com/acmcalvo" target=" _blank">
         <img
-          src={Octocat} width="100" height="100"
+          src={Octocat} width="80"
           alt="Github"
           className="icon"
         />

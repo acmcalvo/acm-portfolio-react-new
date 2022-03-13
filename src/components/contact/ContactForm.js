@@ -35,7 +35,8 @@ function ContactForm() {
   }
 
   function handleSubmit(e) {
-    e.preventDefault();
+  e.preventDefault(); 
+  window.location.href=`mailto:acmcalvo@yahoo.com?subject=message to Alvaro&body=${formState.message}`;
   }
 
   return (
@@ -44,15 +45,15 @@ function ContactForm() {
         Contact Form
       </h2>
       <hr></hr>
-      <form className="justify-content-center" id="contact-form">
+      <form className="justify-content-center" id="contact-form" onSubmit={handleSubmit} onChange={handleChange}>
         <div className="mt-5">
           <label htmlFor="name">Name:</label>
           <input
-            class="form-control"
+            className="form-control"
             type="text"
             name="name"
             defaultValue={name}
-            onBlur={handleChange}
+           
           />
         </div>
         <div className="mt-5">
@@ -62,16 +63,16 @@ function ContactForm() {
             type="email"
             name="email"
             defaultValue={email}
-            onBlur={handleChange}
+            
           />
         </div>
         <div className="mt-5">
           <label htmlFor="message">Message:</label>
           <textarea
-            class="form-control"
+            className="form-control"
             name="message"
             defaultValue={message}
-            onBlur={handleChange}
+            
             rows="7"
           />
         </div>
@@ -84,9 +85,9 @@ function ContactForm() {
         <div className="mt-5 mb-5">
           <button
             data-testid="button"
-            class="btn btn-outline-dark "
+            className="btn btn-outline-dark "
             type="submit"
-            onSubmit={handleSubmit}
+            
           >
             Submit
           </button>
