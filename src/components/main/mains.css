@@ -1,36 +1,29 @@
-  /* Header/logo Title */
+
   .hero {
       
     background-image: url('../assets/cover-project-2.png');
-    /* background-size: cover;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-    background-attachment: scroll;
-     */
-     
-     
-      background-size: cover;
+   padding: 160px 160px; 
+     background-size: cover;
      display: flex;
      justify-content: space-between;
      flex-wrap: wrap;
-     /* position: sticky; */
+    
      position: -webkit-sticky;
      top: 0;
     
      background-size: cover;
      background-attachment: fixed;
-     background-position: 10%;
+     background-position: 15%;
      z-index: 9999;
    }
     
   
 
   .hero-cta {
-    width: 40%;
+    position: relative;
+    width: 30%;
     text-align: unset;
-    margin: 6.1%;
+    margin: 11%;
     color: #fff;
     font-size: 30px;
     line-height: 5;
@@ -38,15 +31,16 @@
   }
 
   .hero-cta h2 {
-    font-style: italic;
-  
+    /* font-style: italic; */
+
+    font-family: 'Sacramento', cursive;
     color: black;
     }
 
     .hero-cta h3 {
       font-style: italic;
       font-size: 20px;
-      color: rgb(52, 132, 159);
+      color: rgb(52, 98, 159);
       }
       
 /* End of Header */

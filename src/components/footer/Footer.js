@@ -16,6 +16,7 @@ function Footer() {
           src="https://img.icons8.com/fluent/48/000000/linkedin.png"
           alt="LinkedIn"
           className="icon"
+          target=" _blank"
         />
       </a>
     </footer>

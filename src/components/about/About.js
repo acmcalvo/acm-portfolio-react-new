@@ -25,8 +25,8 @@ function About() {
           We get married, and we have two daughters and two sons, After we got married, we moved to America to explore how to leave different counties Plus, my wife was born in the United States.
           </p>
           <p>
-          As early as 2000, we returned to Costa Rica, I started working at Advertising Company Sepacolor,Sepacolor, 
-          which change my carrier, and let me get more in the technical side of "Graphics Design," so pursue grow in my 
+          As early as 2000, we returned to Costa Rica, I started working at Advertising Company Sepacolor,  "Sepacolor" 
+          change my carrier, and let me get more in the technical side of "Graphics Design," so pursue grow in my 
           carrier take the chance to get another job in Tribu Saatchi & Saatchi, now called Havas Costa Rica, is a great place 
           to work and a very professional workplace, Watching my three kids grow up. We always like being parents and we want 
           to give my children the best we move back to the USA, My eldest son was suffocated by all the changes at that time, 
