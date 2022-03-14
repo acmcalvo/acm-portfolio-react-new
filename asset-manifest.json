@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/acm-portfolio-react-new/static/css/main.549d972d.css",
-    "main.js": "/acm-portfolio-react-new/static/js/main.f02dbe33.js",
+    "main.js": "/acm-portfolio-react-new/static/js/main.d2771a13.js",
     "static/js/787.3ca2a04a.chunk.js": "/acm-portfolio-react-new/static/js/787.3ca2a04a.chunk.js",
     "static/media/cover-project-2.png": "/acm-portfolio-react-new/static/media/cover-project-2.ec2be5f9f9c49f9e4961.png",
     "static/media/Octocat.png": "/acm-portfolio-react-new/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -9,11 +9,11 @@
     "static/media/me.jpg": "/acm-portfolio-react-new/static/media/me.0e6242e36eabf6c43310.jpg",
     "index.html": "/acm-portfolio-react-new/index.html",
     "main.549d972d.css.map": "/acm-portfolio-react-new/static/css/main.549d972d.css.map",
-    "main.f02dbe33.js.map": "/acm-portfolio-react-new/static/js/main.f02dbe33.js.map",
+    "main.d2771a13.js.map": "/acm-portfolio-react-new/static/js/main.d2771a13.js.map",
     "787.3ca2a04a.chunk.js.map": "/acm-portfolio-react-new/static/js/787.3ca2a04a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.549d972d.css",
-    "static/js/main.f02dbe33.js"
+    "static/js/main.d2771a13.js"
   ]
 }
