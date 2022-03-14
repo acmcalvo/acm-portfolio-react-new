@@ -12,7 +12,7 @@ function About() {
         <h3>
           {" "}
           I am a full stack web developer looking to build a more intuitive user
-          experience on the web. I pursue certificate in full stack development
+          experience on the web. I pursue certificate in full stack developer
           from the University of Central Florida bootcamp, with newly developed
           skills in JavaScript, CSS, React.js, and responsive web design. I am
           known as an innovative problem solver passionate about developing
