@@ -1,8 +1,9 @@
 import React from "react";
 import "./mains.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 // import me  from "../assets/cover-project-2.png"
 
-function About() {
+function Main() {
   return (
     <section className="hero">
       <div className="hero-cta">
@@ -10,7 +11,6 @@ function About() {
         <hr></hr>
         
         <h3>
-          {" "}
           I am a full stack web developer looking to build a more intuitive user
           experience on the web. I pursue certificate in full stack developer
           from the University of Central Florida bootcamp, with newly developed
@@ -25,4 +25,4 @@ function About() {
   );
 }
 
-export default About;
+export default Main;
