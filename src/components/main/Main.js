@@ -1,7 +1,7 @@
 import React from "react";
 import "./mains.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import me  from "../assets/cover-project-2.png"
+
 
 function Main() {
   return (
@@ -9,6 +9,7 @@ function Main() {
       <div className="hero-cta">
         <h2> Alvaro Calvo</h2>
         <hr></hr>
+        
         
         <h3>
           I am a full stack web developer looking to build a more intuitive user

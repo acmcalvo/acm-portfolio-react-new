@@ -11,8 +11,7 @@ function About() {
           className="mx-5"
            id="avatar"
          src={me} width="200" height="200"
-          alt="Alvaro Calvo"
-        />
+          alt="Alvaro Calvo"/>
        
         <div>
           
@@ -35,7 +34,9 @@ function About() {
           So .. Something happened, we got a new member in our family, in the mean time My son graduated from university and became AeroSpaces Enginer ,
            and my daughter She has just completed her deployment and changed hands into the car dealership business. My old song was pursued in college.
            
+           
           </p>
+        
         </div>
       </div>
     </section>

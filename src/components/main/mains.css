@@ -1,33 +1,50 @@
 .hero {
 
-  background-image: url('../assets/cover-project-2.png');
-
-  background-size: cover;
+ background-image: url('../assets/cover-project-2.png');
+  /* background-size: cover;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   position: -webkit-sticky;
-  background-size: cover;
-  background-attachment: local;
-  background-position: 15%;
+ background-attachment: local;
+  background-position: 20%;
+z-index: 9; */
+background-size: cover;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      align-items: center;
+      background-attachment: scroll;
+      background-color: #eee;
+      padding-left: 60px;
+      padding-right: 60px;
+      margin-bottom: 30px;
+      padding-bottom: 30px;
+      padding-top: 30px;
+    }
 
-  z-index: 9;
-}
 
 
 
 .hero-cta {
-  
-  width: 80%;
+
+  /* width: 80%;
   text-align: unset;
   margin: 20%;
   color: #fff;
-  line-height: 5;
-
+  line-height: 5; */
+  padding-bottom: 48px;
+ padding-top: 48px;
+  /* width: 35%; */
+text-justify: auto;
+  margin: 20.1%;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.2;
 }
 
 .hero-cta h2 {
- padding-top: 0%;
+padding: 0%;
   font-size: 45px;
   color: black;
 }

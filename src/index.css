@@ -332,6 +332,8 @@ textarea {
 }
 
 .footer { 
+ position: -webkit-sticky;
+  background-color: #070707;
   display: flex; 
   align-items: center; 
   justify-content: center; 
