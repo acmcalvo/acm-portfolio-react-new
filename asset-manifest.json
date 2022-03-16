@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/acm-portfolio-react-new/static/css/main.549d972d.css",
-    "main.js": "/acm-portfolio-react-new/static/js/main.d2771a13.js",
+    "main.css": "/acm-portfolio-react-new/static/css/main.b2107c8a.css",
+    "main.js": "/acm-portfolio-react-new/static/js/main.02a81a5a.js",
     "static/js/787.3ca2a04a.chunk.js": "/acm-portfolio-react-new/static/js/787.3ca2a04a.chunk.js",
-    "static/media/cover-project-2.png": "/acm-portfolio-react-new/static/media/cover-project-2.ec2be5f9f9c49f9e4961.png",
-    "static/media/Octocat.png": "/acm-portfolio-react-new/static/media/Octocat.363cb5edea582a89c41f.png",
     "static/media/acm-resume.jpg": "/acm-portfolio-react-new/static/media/acm-resume.504815f702832b9bb400.jpg",
+    "static/media/office.jpg": "/acm-portfolio-react-new/static/media/office.8447d93ffdc427104126.jpg",
     "static/media/me.jpg": "/acm-portfolio-react-new/static/media/me.0e6242e36eabf6c43310.jpg",
+    "static/media/www.png": "/acm-portfolio-react-new/static/media/www.76d7754b4783f46b1c97.png",
     "index.html": "/acm-portfolio-react-new/index.html",
-    "main.549d972d.css.map": "/acm-portfolio-react-new/static/css/main.549d972d.css.map",
-    "main.d2771a13.js.map": "/acm-portfolio-react-new/static/js/main.d2771a13.js.map",
+    "main.b2107c8a.css.map": "/acm-portfolio-react-new/static/css/main.b2107c8a.css.map",
+    "main.02a81a5a.js.map": "/acm-portfolio-react-new/static/js/main.02a81a5a.js.map",
     "787.3ca2a04a.chunk.js.map": "/acm-portfolio-react-new/static/js/787.3ca2a04a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.549d972d.css",
-    "static/js/main.d2771a13.js"
+    "static/css/main.b2107c8a.css",
+    "static/js/main.02a81a5a.js"
   ]
 }
