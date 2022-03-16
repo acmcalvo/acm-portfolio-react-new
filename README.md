@@ -28,7 +28,7 @@ https://acmcalvo.github.io/acm-portfolio-react-new/
 
  ## Usage
  
-  * Downloaded the code  https://github.com/acmcalvo/Social-Network-ACM-API.git <br/>
+  * Downloaded the code https://github.com/acmcalvo/acm-portfolio-react-new.git <br/>
   * open the zipped folder: <br/>
     ```
     $ npx create-react-app portfolio-react-acm
@@ -37,7 +37,7 @@ https://acmcalvo.github.io/acm-portfolio-react-new/
     ```
     
  ## Repository
-  https://github.com/acmcalvo/Social-Network-ACM-API.git
+  https://github.com/acmcalvo/acm-portfolio-react-new.git
 
 
   ## License 
