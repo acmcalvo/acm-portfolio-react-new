@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { validateEmail } from "../../utils/helpers.js";
+import { validateEmail } from "../../utils/validateEmail.js";
 
 function ContactForm() {
   const [formState, setFormState] = useState({
@@ -8,7 +8,7 @@ function ContactForm() {
     message: "",
   });
 
-  const [errorMessage, setErrorMessage] = useState("");
+  const [errorMessage, setErrorMessage] = useState('');
 
   const { name, email, message } = formState;
 
