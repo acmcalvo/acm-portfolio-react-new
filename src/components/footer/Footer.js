@@ -20,6 +20,13 @@ export default function App() {
               <h6 className='text-uppercase fw-bold mb-4'>
                 <i className='fas fa-gem me-3'></i>Alvaro Calvo
               </h6>
+              <h6>
+                <i className='fas fa-gem me-3'></i> Full Stack Web Developer
+                </h6>
+                <h6>
+                <i className='fas fa-gem me-3'></i> Graphics Designer
+                </h6>
+             
              
          
             </div>
