@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { MDBFooter } from 'mdb-react-ui-kit';
-// import me from '../assets/Octocat.png';
+
 
 export default function App() {
   return (
@@ -11,26 +11,6 @@ export default function App() {
           <span>Get connected with us on social networks:</span>
         </div>
 
-        {/* <div>
-          <a href='' className='me-4 text-reset'>
-            <i className='fab fa-facebook-f'></i>
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <i className='fab fa-twitter'></i>
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <i className='fab fa-google'></i>
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <i className='fab fa-instagram'></i>
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <i className='fab fa-linkedin'></i>
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <i className='fab fa-github'></i>
-          </a>
-        </div> */}
       </section>
 
       <section className=''>
@@ -103,11 +83,8 @@ export default function App() {
       </section>
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-        © 2022 Copyright:
-        <a className='text-reset fw-bold' href='https://mdbootstrap.com/'>
-          acmcalvo.dev
-        </a>
-      </div>
+        © 2022 Copyright
+        </div>
     </MDBFooter>
   );
 }

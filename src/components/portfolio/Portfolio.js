@@ -20,6 +20,8 @@ function Portfolio () {
             {portfolio.map((project, index) => (
               <ProjectCards key={index} image={project.image} name={project.name} github={project.github} deploy={project.deploy} topics={project.topics}/>
             ))}
+
+            
           </Wrapper>
         </section>
     

@@ -24,11 +24,13 @@ function Resume() {
           </p>
 
           <a
+            className="btn btn-primary btn-xl"
             href="https://drive.google.com/file/d/1zYhDCdgn58FRbYCidykNUalOJl8GCHnH/view?usp=sharing"
-            className="link"
           >
             Download Resume
           </a>
+          <hr></hr>
+
           <div className="d-flex">
             <img
               className="mx-5"
