@@ -26,6 +26,8 @@ gh-pages deploy:
 
 https://acmcalvo.github.io/acm-portfolio-react-new/
 
+<img width="1166" alt="Screen Shot 2022-03-15 at 11 28 07 PM" src="https://user-images.githubusercontent.com/91921941/158511074-483c9de5-671d-4a48-8994-1b96e9995606.png">
+
  ## Usage
  
   * Downloaded the code https://github.com/acmcalvo/acm-portfolio-react-new.git <br/>
