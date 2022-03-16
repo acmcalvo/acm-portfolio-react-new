@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/acm-portfolio-react-new/static/css/main.ec92a227.css",
-    "main.js": "/acm-portfolio-react-new/static/js/main.532bf232.js",
+    "main.css": "/acm-portfolio-react-new/static/css/main.110a7ede.css",
+    "main.js": "/acm-portfolio-react-new/static/js/main.5990984c.js",
     "static/js/787.3ca2a04a.chunk.js": "/acm-portfolio-react-new/static/js/787.3ca2a04a.chunk.js",
     "static/media/acm-resume.jpg": "/acm-portfolio-react-new/static/media/acm-resume.504815f702832b9bb400.jpg",
     "static/media/office.jpg": "/acm-portfolio-react-new/static/media/office.8447d93ffdc427104126.jpg",
     "static/media/me.jpg": "/acm-portfolio-react-new/static/media/me.0e6242e36eabf6c43310.jpg",
     "static/media/www.png": "/acm-portfolio-react-new/static/media/www.76d7754b4783f46b1c97.png",
     "index.html": "/acm-portfolio-react-new/index.html",
-    "main.ec92a227.css.map": "/acm-portfolio-react-new/static/css/main.ec92a227.css.map",
-    "main.532bf232.js.map": "/acm-portfolio-react-new/static/js/main.532bf232.js.map",
+    "main.110a7ede.css.map": "/acm-portfolio-react-new/static/css/main.110a7ede.css.map",
+    "main.5990984c.js.map": "/acm-portfolio-react-new/static/js/main.5990984c.js.map",
     "787.3ca2a04a.chunk.js.map": "/acm-portfolio-react-new/static/js/787.3ca2a04a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec92a227.css",
-    "static/js/main.532bf232.js"
+    "static/css/main.110a7ede.css",
+    "static/js/main.5990984c.js"
   ]
 }
