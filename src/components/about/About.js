@@ -17,7 +17,7 @@ function About() {
           
           <p>
           I was born and raised in San Jose, Costa Rica, for most of my childhood I live in a small town known as "Curridabat.
-          " I attend High School in the same town that I meet the love of my life.
+          " I attended High School in the same town that I met the love of my life.
            
           </p>
           <p>
