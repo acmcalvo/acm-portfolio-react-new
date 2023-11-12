@@ -21,15 +21,20 @@ function About() {
            production systems and needs.
            
           </p>
-          <p>
-          30  years of print, networking, and prepress experience
-Extremely proficient across both Mac and PC platforms
+<p>
 Exceptionally mindful of details, steady and committed work ethic, solid, consistent, focused
 Excited about dissecting and solving problems and formulating and implementing new, efficient, and cost-effective solutions
 Passionate about remaining up-to-date on current software advancements and trends
 Trained and certified in HP digital equipment color correction
+<p>     
+Extremely proficient across both Mac and PC platforms
+</p>
+<p>
+30  years of print, networking, and prepress experience
+</p>
 Bilingual with advanced fluency in Spanish
           </p>
+          
       
         </div>
       </div>
