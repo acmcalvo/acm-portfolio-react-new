@@ -40,8 +40,8 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Dotted border */
-hr.dotted {
-  border-top: 3px dotted #bbb;
+.separator {
+  height: 10px;
+  background-color: red;
+  border: none;
 }
-
