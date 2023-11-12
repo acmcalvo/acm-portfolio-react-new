@@ -41,7 +41,7 @@ p {
 }
 
 .separator {
-  height: 40px;
+  height: 10px !important;
   background-color: red;
   border: none;
 }
