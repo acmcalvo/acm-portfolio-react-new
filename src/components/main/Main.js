@@ -13,7 +13,7 @@ function Main() {
             <hr class="divider" />
           </div>
           <div className="col-lg-8 align-self-baseline">
-            <p className="text-white-75 mb-5">
+            <p className="text-white mb-5">
               I am a full stack web developer looking to build a more intuitive
               user experience on the web. I pursue certificate in full stack
               developer from the University of Central Florida bootcamp, with
