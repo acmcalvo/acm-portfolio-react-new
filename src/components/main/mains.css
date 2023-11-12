@@ -39,3 +39,9 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+/* Dotted border */
+hr.dotted {
+  border-top: 3px dotted #bbb;
+}
+
