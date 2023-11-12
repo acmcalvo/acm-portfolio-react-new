@@ -10,7 +10,7 @@ function Main() {
         <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
           <div className="col-lg-20 align-self-end">
             <h1 className="text-white font-weight-bold">Alvaro Calvo</h1>
-            <hr class="divider" />
+            <hr class="separator" />
           </div>
           <div className="col-lg-8 align-self-baseline">
             <p className="text-white mb-5">
