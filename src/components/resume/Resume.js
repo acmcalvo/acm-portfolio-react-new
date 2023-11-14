@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../assets/acm-resume.jpg";
+import me from "../assets/acm-resume.jpeg";
 
 function Resume() {
   return (
