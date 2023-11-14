@@ -25,7 +25,7 @@ function Resume() {
 
           <a
             className="btn btn-primary btn-xl"
-            href="https://drive.google.com/file/d/1zYhDCdgn58FRbYCidykNUalOJl8GCHnH/view?usp=sharing"
+            href="https://drive.google.com/file/d/1YtJVrY5i1NsSKABeajFgoQ7AZey2yKMJ/view?usp=sharing"
           >
             Download Resume
           </a>
